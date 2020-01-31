@@ -1,6 +1,6 @@
 ---
 hero:
-  heading: Novela, the simplest way to start publishing with Hugo and Forestry.
+  heading: Hello World E!
   maxWidthPX: "652"
 
 ---
