@@ -1,6 +1,6 @@
 ---
 hero:
-  heading: Hello World E!
+  heading: Hello World E
   maxWidthPX: "652"
 
 ---
